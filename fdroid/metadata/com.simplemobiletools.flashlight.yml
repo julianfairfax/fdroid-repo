@@ -1,0 +1,13 @@
+AuthorName: julianfairfax
+Categories:
+    - System
+CurrentVersion: 5.6.3
+CurrentVersionCode: 55
+Description: |
+    From the Simple Mobile Tools project, with a white icon fit for GrapheneOS
+IssueTracker: ""
+License: GPL-3.0
+Name: Simple Flashlight for GrapheneOS
+SourceCode: https://github.com/julianfairfax/Simple-Flashlight
+Summary: A simple modern flashlight with SOS, stroboscope & bright display, has no ads.
+WebSite: ""

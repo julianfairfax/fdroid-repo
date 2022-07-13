@@ -1,0 +1,13 @@
+AuthorName: julianfairfax
+Categories:
+    - System
+CurrentVersion: 6.23.13
+CurrentVersionCode: 372
+Description: |
+    From the Simple Mobile Tools project, with a white icon fit for GrapheneOS
+IssueTracker: ""
+License: GPL-3.0
+Name: Simple Gallery for GrapheneOS
+SourceCode: https://github.com/julianfairfax/Simple-Gallery
+Summary: A premium app for managing and editing your photos, videos, GIFs without ads
+WebSite: ""

@@ -1,0 +1,13 @@
+AuthorName: julianfairfax
+Categories:
+    - System
+CurrentVersion: 5.9.2
+CurrentVersionCode: 44
+Description: |
+    From the Simple Mobile Tools project, with a white icon fit for GrapheneOS
+IssueTracker: ""
+License: GPL-3.0
+Name: Simple App Launcher for GrapheneOS
+SourceCode: https://github.com/julianfairfax/Simple-App-Launcher
+Summary: A simple holder for favourite apps for quick & easy app launcher icon management
+WebSite: ""

@@ -1,0 +1,13 @@
+AuthorName: julianfairfax
+Categories:
+    - System
+CurrentVersion: 5.8.2
+CurrentVersionCode: 25
+Description: |
+    From the Simple Mobile Tools project, with a white icon fit for GrapheneOS
+IssueTracker: ""
+License: GPL-3.0
+Name: Simple Voice Recorder for GrapheneOS
+SourceCode: https://github.com/julianfairfax/Simple-Voice-Recorder
+Summary: An easy way of recording any discussion or sounds without ads or internet access
+WebSite: ""

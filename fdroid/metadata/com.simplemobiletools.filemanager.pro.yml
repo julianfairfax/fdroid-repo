@@ -1,0 +1,13 @@
+AuthorName: julianfairfax
+Categories:
+    - System
+CurrentVersion: 6.12.6
+CurrentVersionCode: 123
+Description: |
+    From the Simple Mobile Tools project, with a white icon fit for GrapheneOS
+IssueTracker: ""
+License: GPL-3.0
+Name: Simple File Manager for GrapheneOS
+SourceCode: https://github.com/julianfairfax/Simple-File-Manager
+Summary: Easy app for managing your files without ads, respecting your privacy & security
+WebSite: ""

@@ -1,0 +1,13 @@
+AuthorName: julianfairfax
+Categories:
+    - System
+CurrentVersion: 5.3.1
+CurrentVersionCode: 77
+Description: |
+    From the Simple Mobile Tools project, with a white icon fit for GrapheneOS
+IssueTracker: ""
+License: GPL-3.0
+Name: Simple Camera for GrapheneOS
+SourceCode: https://github.com/julianfairfax/Simple-Camera
+Summary: (Abandoned) Quick photo and video camera with a flash, customizable resolutio...
+WebSite: ""

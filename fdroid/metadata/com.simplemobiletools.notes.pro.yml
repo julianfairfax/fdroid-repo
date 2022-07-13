@@ -1,0 +1,13 @@
+AuthorName: julianfairfax
+Categories:
+    - System
+CurrentVersion: 6.13.0
+CurrentVersionCode: 97
+Description: |
+    From the Simple Mobile Tools project, with a white icon fit for GrapheneOS
+IssueTracker: ""
+License: GPL-3.0
+Name: Simple Notes for GrapheneOS
+SourceCode: https://github.com/julianfairfax/Simple-Notes
+Summary: A simple textfield for adding quick notes without ads.
+WebSite: ""

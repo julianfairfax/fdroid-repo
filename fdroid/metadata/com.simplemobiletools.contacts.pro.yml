@@ -1,0 +1,13 @@
+AuthorName: julianfairfax
+Categories:
+    - System
+CurrentVersion: 6.19.1
+CurrentVersionCode: 95
+Description: |
+    From the Simple Mobile Tools project, with a white icon fit for GrapheneOS
+IssueTracker: ""
+License: GPL-3.0
+Name: Simple Contacts for GrapheneOS
+SourceCode: https://github.com/julianfairfax/Simple-Contacts
+Summary: Easy and quick contact management with no ads, handles groups and favorites too.
+WebSite: ""

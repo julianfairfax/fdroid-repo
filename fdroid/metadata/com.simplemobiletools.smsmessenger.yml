@@ -1,0 +1,13 @@
+AuthorName: julianfairfax
+Categories:
+    - System
+CurrentVersion: 5.15.0
+CurrentVersionCode: 60
+Description: |
+    From the Simple Mobile Tools project, with a white icon fit for GrapheneOS
+IssueTracker: ""
+License: GPL-3.0
+Name: Simple SMS Messenger for GrapheneOS
+SourceCode: https://github.com/julianfairfax/Simple-SMS-Messenger
+Summary: An easy and quick way of managing SMS and MMS messages without ads.
+WebSite: ""

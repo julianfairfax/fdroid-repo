@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fdroid>
+	<repo icon="icon.png" name="Julian Fairfax's F-Droid Repo" pubkey="308204e7308202cfa0030201020204705576fc300d06092a864886f70d01010b050030243110300e060355040b1307462d44726f69643110300e0603550403130750756c73653135301e170d3232303631353137343931375a170d3439313033313137343931375a30243110300e060355040b1307462d44726f69643110300e0603550403130750756c7365313530820222300d06092a864886f70d01010105000382020f003082020a0282020100be2c4cd2e0418bc5b860a318b0a4702edf6aa8b2ad0c995c51a90ebd40e1ed717e8f861b8271d39e5fc1ccb2e0502c3fb80e0ce7b56f81536a7405871990cab382feb07c43bf415c99d493c9114c89fd9f1f897181a040d4a988cfdaeeac6505291a0290937384f4d48520ca57a83d985e2d32197f0d0275a606729c80b3c7ded80f6773fa95b964900afc30944b2763b01ebb0d0619c06b1049a20c43b44547bf7be5d4a9d88938f0b168c5788b895564e800e0819db892b76285593b7f51ed47157e0472fb99aa74ae28243e1542c567341fc87f97d8906556466e6621b83f7b174531e9852cc4990329ddbe8e56cd5be8cf52bd697a7a5a8371e79a05d9d2db6ac9dd25667d4f2ac2813e4168c9f99e446930a3616fe4ec6c0f6f6b33cec5ec6d56a369c76c48ccb1831f21de69765ae0782fcb5f94a9dbac0a637078c6bfed35223e2dd937302b151d47b8bf15ede2ceb6f78e7308b03e541b0629265af224c03b7fe776912dfa3f009b1d264e39bf6499a037c1da345c94f3e7f05b4b6283513c2faede505a09be96972a4d4005584acb2ca054718499e7505b44dd77934901d5a880da0841f67abd9bdc34df5fc5a058ecd1fefc0771960aac610f5094bb361aaa549d1031884d7b659fea6c8fa13df91f701a13564b366b677db4cd2a00f2fa68e8f941835992c4be5ed590cc1bd8b1396f3890200e4eb5bcaae7e8f30203010001a321301f301d0603551d0e04160414eff81666778379fcf3884853f93f132530bdb9df300d06092a864886f70d01010b05000382020100b34b55f2bbf556373a31e2133a5ba70f7aa30ce7bb7aaff51d240e370bf866456beba1e529b8ce08e785308a7ba69bab0e3fa0a975e980d375225ac7effe8dfb3be02262f16d8b6e9f6cea5e424113114c6b9fb03d65c28938bd461530458fbd5b1463f93e4d7bf117cee322b555c4c3b314a0ee18d77d2af64019c6985b5c01e37ce03a989335e7629a018e98f7ba2c22f30278ff057052182eb84ae100185cc72607eb021e6a64c45bd6980b06f61046b7639d447a36345b501a88c20efc8bc1620619606aabd1cb591e9ba03e0806308cab774aada783e7a1d0b8ec4079592e17d95fe6d66f75a1c5e4a9a4d8fdcaf539f776439dff8f1d69dc5641c22406ff646a855b12aacae29651e26d36879f57941f35b0ac3c8585ac79fb806e89882088dfb418a1ae875f6cfca542da358666d4762f43a42c7826d178abc526c687115d88a19a683536b7bcafe60097492bf127316a36b642178d84131c0e7fb92e8e8d335553a190aabfa0609acee1a8b8c359acce52962bf1e4d9a21b9e3e43b04d45644bbe6d953c44da36277f45de3c067b9d613d1dddf8b5a608df7dd6a125e31f4ffbcb2373960ccefdb5f2ece51b0c8dafb14a8336153e439469110fb9fd3e4952903df72dd5e2e139cc5e65a0fbf7712f677fb89cf4fea50cdd407e4e7f5a58f6beb4633a08bb5259c893323d3fdb05722adcba015a67d16587f723e4d8" timestamp="1657751734" url="https://raw.githubusercontent.com/julianfairfax/fdroid-repo/main/fdroid/repo" version="20001">
+		<description>This is a repository of apps to be used with F-Droid. Applications in this repository are either official binaries built by the original application developers, or are binaries built from source by the admin of f-droid.org using the tools on https://gitlab.com/fdroid.</description>
+	</repo>
+	<application id="com.simplemobiletools.applauncher">
+		<id>com.simplemobiletools.applauncher</id>
+		<added>2022-07-13</added>
+		<lastupdated>2022-07-13</lastupdated>
+		<name>Simple App Launcher for GrapheneOS</name>
+		<summary>A simple holder for favourite apps for quick &amp; easy app launcher icon management</summary>
+		<desc>From the Simple Mobile Tools project, with a white icon fit for GrapheneOS
+</desc>
+		<license>GPL-3.0</license>
+		<categories>System</categories>
+		<category>System</category>
+		<web></web>
+		<source>https://github.com/julianfairfax/Simple-App-Launcher</source>
+		<tracker></tracker>
+		<author>julianfairfax</author>
+		<marketversion>5.9.2</marketversion>
+		<marketvercode>44</marketvercode>
+		<package>
+			<version>5.9.2</version>
+			<versioncode>44</versioncode>
+			<apkname>simple-app-launcher_5.9.2.apk</apkname>
+			<hash type="sha256">e6d81dbd85ee099814a98601546bf04330e6399fe30b3d3c48b89d4545d96d46</hash>
+			<size>7243423</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>31</targetSdkVersion>
+			<added>2022-07-13</added>
+			<sig>3605785333d36e83c077f0d94964a7df</sig>
+			<permissions>QUERY_ALL_PACKAGES</permissions>
+		</package>
+	</application>
+	<application id="com.simplemobiletools.calculator">
+		<id>com.simplemobiletools.calculator</id>
+		<added>2022-07-13</added>
+		<lastupdated>2022-07-13</lastupdated>
+		<name>Simple Calculator for GrapheneOS</name>
+		<summary>A calculator for quick simple calculations with a nice user interface and no ads</summary>
+		<desc>From the Simple Mobile Tools project, with a white icon fit for GrapheneOS
+</desc>
+		<license>GPL-3.0</license>
+		<categories>System</categories>
+		<category>System</category>
+		<web></web>
+		<source>https://github.com/julianfairfax/Simple-Calculator</source>
+		<tracker></tracker>
+		<author>julianfairfax</author>
+		<marketversion>5.9.0</marketversion>
+		<marketvercode>52</marketvercode>
+		<package>
+			<version>5.9.0</version>
+			<versioncode>52</versioncode>
+			<apkname>simple-calculator_5.9.0.apk</apkname>
+			<hash type="sha256">de004fdd5c59a07317ce4290b2decd0051c4e328a774f870ce91971c9c24e3ec</hash>
+			<size>6962786</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>31</targetSdkVersion>
+			<added>2022-07-13</added>
+			<sig>3605785333d36e83c077f0d94964a7df</sig>
+		</package>
+	</application>
+	<application id="com.simplemobiletools.calendar.pro">
+		<id>com.simplemobiletools.calendar.pro</id>
+		<added>2022-07-13</added>
+		<lastupdated>2022-07-13</lastupdated>
+		<name>Simple Calendar for GrapheneOS</name>
+		<summary>A simple calendar with events, tasks, customizable colors, widgets and no ads.</summary>
+		<desc>From the Simple Mobile Tools project, with a white icon fit for GrapheneOS
+</desc>
+		<license>GPL-3.0</license>
+		<categories>System</categories>
+		<category>System</category>
+		<web></web>
+		<source>https://github.com/julianfairfax/Simple-Calendar</source>
+		<tracker></tracker>
+		<author>julianfairfax</author>
+		<marketversion>6.18.3</marketversion>
+		<marketvercode>220</marketvercode>
+		<package>
+			<version>6.18.3</version>
+			<versioncode>220</versioncode>
+			<apkname>simple-calendar_6.18.3.apk</apkname>
+			<hash type="sha256">2ceb542bf91829ad08bff474cefacf89b7a87a0298a843788fe37c5ab8c62c69</hash>
+			<size>8596905</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>31</targetSdkVersion>
+			<added>2022-07-13</added>
+			<sig>3605785333d36e83c077f0d94964a7df</sig>
+			<permissions>READ_CALENDAR,READ_CONTACTS,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,VIBRATE,WAKE_LOCK,WRITE_CALENDAR,WRITE_EXTERNAL_STORAGE</permissions>
+			<uses-permission maxSdkVersion="28" name="android.permission.READ_EXTERNAL_STORAGE"/>
+			<uses-permission maxSdkVersion="28" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+		</package>
+	</application>
+	<application id="com.simplemobiletools.camera">
+		<id>com.simplemobiletools.camera</id>
+		<added>2022-07-13</added>
+		<lastupdated>2022-07-13</lastupdated>
+		<name>Simple Camera for GrapheneOS</name>
+		<summary>(Abandoned) Quick photo and video camera with a flash, customizable resolutio...</summary>
+		<desc>From the Simple Mobile Tools project, with a white icon fit for GrapheneOS
+</desc>
+		<license>GPL-3.0</license>
+		<categories>System</categories>
+		<category>System</category>
+		<web></web>
+		<source>https://github.com/julianfairfax/Simple-Camera</source>
+		<tracker></tracker>
+		<author>julianfairfax</author>
+		<marketversion>5.3.1</marketversion>
+		<marketvercode>77</marketvercode>
+		<package>
+			<version>5.3.1</version>
+			<versioncode>77</versioncode>
+			<apkname>simple-camera_5.3.1.apk</apkname>
+			<hash type="sha256">f75fddd27b42d30ec732cb5dc102f050e1656b337906f79af3bb2e4e4ec24016</hash>
+			<size>10366946</size>
+			<sdkver>29</sdkver>
+			<targetSdkVersion>31</targetSdkVersion>
+			<added>2022-07-13</added>
+			<sig>3605785333d36e83c077f0d94964a7df</sig>
+			<permissions>CAMERA,DISABLE_KEYGUARD,READ_EXTERNAL_STORAGE,RECORD_AUDIO,WRITE_EXTERNAL_STORAGE</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+			<features>android.hardware.camera</features>
+		</package>
+	</application>
+	<application id="com.simplemobiletools.clock">
+		<id>com.simplemobiletools.clock</id>
+		<added>2022-07-13</added>
+		<lastupdated>2022-07-13</lastupdated>
+		<name>Simple Clock for GrapheneOS</name>
+		<summary>Combination of a beautiful clock with widget, alarm, stopwatch &amp; timer, no ads</summary>
+		<desc>From the Simple Mobile Tools project, with a white icon fit for GrapheneOS
+</desc>
+		<license>GPL-3.0</license>
+		<categories>System</categories>
+		<category>System</category>
+		<web></web>
+		<source>https://github.com/julianfairfax/Simple-Clock</source>
+		<tracker></tracker>
+		<author>julianfairfax</author>
+		<marketversion>5.8.1</marketversion>
+		<marketvercode>29</marketvercode>
+		<package>
+			<version>5.8.1</version>
+			<versioncode>29</versioncode>
+			<apkname>simple-clock_5.8.1.apk</apkname>
+			<hash type="sha256">dbd46a9883ec7bd42b24cd8994e305ca3788abf1751253ec827588fcffe4647f</hash>
+			<size>9859769</size>
+			<sdkver>29</sdkver>
+			<targetSdkVersion>31</targetSdkVersion>
+			<added>2022-07-13</added>
+			<sig>3605785333d36e83c077f0d94964a7df</sig>
+			<permissions>FOREGROUND_SERVICE,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,SYSTEM_ALERT_WINDOW,USE_FULL_SCREEN_INTENT,VIBRATE,WAKE_LOCK,com.android.alarm.permission.SET_ALARM</permissions>
+		</package>
+	</application>
+	<application id="com.simplemobiletools.contacts.pro">
+		<id>com.simplemobiletools.contacts.pro</id>
+		<added>2022-07-13</added>
+		<lastupdated>2022-07-13</lastupdated>
+		<name>Simple Contacts for GrapheneOS</name>
+		<summary>Easy and quick contact management with no ads, handles groups and favorites too.</summary>
+		<desc>From the Simple Mobile Tools project, with a white icon fit for GrapheneOS
+</desc>
+		<license>GPL-3.0</license>
+		<categories>System</categories>
+		<category>System</category>
+		<web></web>
+		<source>https://github.com/julianfairfax/Simple-Contacts</source>
+		<tracker></tracker>
+		<author>julianfairfax</author>
+		<marketversion>6.19.1</marketversion>
+		<marketvercode>95</marketvercode>
+		<package>
+			<version>6.19.1</version>
+			<versioncode>95</versioncode>
+			<apkname>simple-contacts_6.19.1.apk</apkname>
+			<hash type="sha256">9d5a63665752ff48a72bf3e11db3c43ac7759183a803b66a911c00722a0d6277</hash>
+			<size>7894401</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>31</targetSdkVersion>
+			<added>2022-07-13</added>
+			<sig>3605785333d36e83c077f0d94964a7df</sig>
+			<permissions>CALL_PHONE,GET_ACCOUNTS,READ_CONTACTS,READ_EXTERNAL_STORAGE,READ_SYNC_SETTINGS,WRITE_CONTACTS,WRITE_EXTERNAL_STORAGE</permissions>
+			<uses-permission maxSdkVersion="28" name="android.permission.READ_EXTERNAL_STORAGE"/>
+			<uses-permission maxSdkVersion="28" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+		</package>
+	</application>
+	<application id="com.simplemobiletools.dialer">
+		<id>com.simplemobiletools.dialer</id>
+		<added>2022-07-13</added>
+		<lastupdated>2022-07-13</lastupdated>
+		<name>Simple Dialer for GrapheneOS</name>
+		<summary>A handy phone call manager with phonebook, number blocking and multi-SIM support</summary>
+		<desc>From the Simple Mobile Tools project, with a white icon fit for GrapheneOS
+</desc>
+		<license>GPL-3.0</license>
+		<categories>System</categories>
+		<category>System</category>
+		<web></web>
+		<source>https://github.com/julianfairfax/Simple-Dialer</source>
+		<tracker></tracker>
+		<author>julianfairfax</author>
+		<marketversion>5.13.3</marketversion>
+		<marketvercode>39</marketvercode>
+		<package>
+			<version>5.13.3</version>
+			<versioncode>39</versioncode>
+			<apkname>simple-dialer_5.13.3.apk</apkname>
+			<hash type="sha256">f95f1f41e591b1fdba6c3365bc64d1d3528f5f8e3b62da96b5f21793e481a572</hash>
+			<size>7153771</size>
+			<sdkver>23</sdkver>
+			<targetSdkVersion>31</targetSdkVersion>
+			<added>2022-07-13</added>
+			<sig>3605785333d36e83c077f0d94964a7df</sig>
+			<permissions>ANSWER_PHONE_CALLS,CALL_PHONE,FOREGROUND_SERVICE,MANAGE_OWN_CALLS,MODIFY_AUDIO_SETTINGS,READ_CALL_LOG,READ_CONTACTS,READ_EXTERNAL_STORAGE,READ_PHONE_STATE,RECORD_AUDIO,SYSTEM_ALERT_WINDOW,WAKE_LOCK,WRITE_CALL_LOG,WRITE_CONTACTS,WRITE_EXTERNAL_STORAGE,android.telecom.action.CONFIGURE_PHONE_ACCOUNT</permissions>
+			<uses-permission maxSdkVersion="28" name="android.permission.READ_EXTERNAL_STORAGE"/>
+			<uses-permission maxSdkVersion="28" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+		</package>
+	</application>
+	<application id="com.simplemobiletools.draw.pro">
+		<id>com.simplemobiletools.draw.pro</id>
+		<added>2022-07-13</added>
+		<lastupdated>2022-07-13</lastupdated>
+		<name>Simple Draw for GrapheneOS</name>
+		<summary>A canvas you can draw on with different colors.</summary>
+		<desc>From the Simple Mobile Tools project, with a white icon fit for GrapheneOS
+</desc>
+		<license>GPL-3.0</license>
+		<categories>System</categories>
+		<category>System</category>
+		<web></web>
+		<source>https://github.com/julianfairfax/Simple-Draw</source>
+		<tracker></tracker>
+		<author>julianfairfax</author>
+		<marketversion>6.7.0</marketversion>
+		<marketvercode>72</marketvercode>
+		<package>
+			<version>6.7.0</version>
+			<versioncode>72</versioncode>
+			<apkname>simple-draw_6.7.0.apk</apkname>
+			<hash type="sha256">7e262038faae913169b3725a520826a84e45364343d768aefc9f6a019741dcd5</hash>
+			<size>7636684</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>31</targetSdkVersion>
+			<added>2022-07-13</added>
+			<sig>3605785333d36e83c077f0d94964a7df</sig>
+			<permissions>READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
+			<uses-permission maxSdkVersion="28" name="android.permission.READ_EXTERNAL_STORAGE"/>
+			<uses-permission maxSdkVersion="28" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+		</package>
+	</application>
+	<application id="com.simplemobiletools.filemanager.pro">
+		<id>com.simplemobiletools.filemanager.pro</id>
+		<added>2022-07-13</added>
+		<lastupdated>2022-07-13</lastupdated>
+		<name>Simple File Manager for GrapheneOS</name>
+		<summary>Easy app for managing your files without ads, respecting your privacy &amp; security</summary>
+		<desc>From the Simple Mobile Tools project, with a white icon fit for GrapheneOS
+</desc>
+		<license>GPL-3.0</license>
+		<categories>System</categories>
+		<category>System</category>
+		<web></web>
+		<source>https://github.com/julianfairfax/Simple-File-Manager</source>
+		<tracker></tracker>
+		<author>julianfairfax</author>
+		<marketversion>6.12.6</marketversion>
+		<marketvercode>123</marketvercode>
+		<package>
+			<version>6.12.6</version>
+			<versioncode>123</versioncode>
+			<apkname>simple-file-manager_6.12.6.apk</apkname>
+			<hash type="sha256">b1c07e9e6704cdb181c0088dc24f56c3aacff08a5a9cdc5c61d806c7ba820937</hash>
+			<size>20560661</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>31</targetSdkVersion>
+			<added>2022-07-13</added>
+			<sig>3605785333d36e83c077f0d94964a7df</sig>
+			<permissions>MANAGE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,REQUEST_INSTALL_PACKAGES,USE_FINGERPRINT,WRITE_EXTERNAL_STORAGE</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+	</application>
+	<application id="com.simplemobiletools.flashlight">
+		<id>com.simplemobiletools.flashlight</id>
+		<added>2022-07-13</added>
+		<lastupdated>2022-07-13</lastupdated>
+		<name>Simple Flashlight for GrapheneOS</name>
+		<summary>A simple modern flashlight with SOS, stroboscope &amp; bright display, has no ads.</summary>
+		<desc>From the Simple Mobile Tools project, with a white icon fit for GrapheneOS
+</desc>
+		<license>GPL-3.0</license>
+		<categories>System</categories>
+		<category>System</category>
+		<web></web>
+		<source>https://github.com/julianfairfax/Simple-Flashlight</source>
+		<tracker></tracker>
+		<author>julianfairfax</author>
+		<marketversion>5.6.3</marketversion>
+		<marketvercode>55</marketvercode>
+		<package>
+			<version>5.6.3</version>
+			<versioncode>55</versioncode>
+			<apkname>simple-flashlight_5.6.3.apk</apkname>
+			<hash type="sha256">c24817f685f8af6af325fb3f6784e4e88967b8500e643692f0b90348cf24e426</hash>
+			<size>7607702</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>31</targetSdkVersion>
+			<added>2022-07-13</added>
+			<sig>3605785333d36e83c077f0d94964a7df</sig>
+			<permissions>CAMERA,FLASHLIGHT</permissions>
+			<uses-permission maxSdkVersion="23" name="android.permission.CAMERA"/>
+			<features>android.hardware.camera.flash</features>
+		</package>
+	</application>
+	<application id="com.simplemobiletools.gallery.pro">
+		<id>com.simplemobiletools.gallery.pro</id>
+		<added>2022-07-13</added>
+		<lastupdated>2022-07-13</lastupdated>
+		<name>Simple Gallery for GrapheneOS</name>
+		<summary>A premium app for managing and editing your photos, videos, GIFs without ads</summary>
+		<desc>From the Simple Mobile Tools project, with a white icon fit for GrapheneOS
+</desc>
+		<license>GPL-3.0</license>
+		<categories>System</categories>
+		<category>System</category>
+		<web></web>
+		<source>https://github.com/julianfairfax/Simple-Gallery</source>
+		<tracker></tracker>
+		<author>julianfairfax</author>
+		<marketversion>6.23.13</marketversion>
+		<marketvercode>372</marketvercode>
+		<package>
+			<version>6.23.13</version>
+			<versioncode>372</versioncode>
+			<apkname>simple-gallery_6.23.13.apk</apkname>
+			<hash type="sha256">0eb022902902fcc98ef005589852692f094c320632d8f8ce54cbcb2c3d9c5b42</hash>
+			<size>16680593</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>31</targetSdkVersion>
+			<added>2022-07-13</added>
+			<sig>3605785333d36e83c077f0d94964a7df</sig>
+			<permissions>ACCESS_MEDIA_LOCATION,MANAGE_EXTERNAL_STORAGE,MANAGE_MEDIA,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,SET_WALLPAPER,USE_FINGERPRINT,WRITE_EXTERNAL_STORAGE</permissions>
+			<uses-permission maxSdkVersion="40" name="android.permission.READ_EXTERNAL_STORAGE"/>
+			<uses-permission maxSdkVersion="40" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a,armeabi,armeabi-v7a,mips,mips64,x86,x86_64</nativecode>
+		</package>
+	</application>
+	<application id="com.simplemobiletools.keyboard">
+		<id>com.simplemobiletools.keyboard</id>
+		<added>2022-07-13</added>
+		<lastupdated>2022-07-13</lastupdated>
+		<name>Simple Keyboard for GrapheneOS</name>
+		<summary>Easy keyboard for inserting all kinds of texts, special characters and numbers.</summary>
+		<desc>From the Simple Mobile Tools project, with a white icon fit for GrapheneOS
+</desc>
+		<license>GPL-3.0</license>
+		<categories>System</categories>
+		<category>System</category>
+		<web></web>
+		<source>https://github.com/julianfairfax/Simple-Keyboard</source>
+		<tracker></tracker>
+		<author>julianfairfax</author>
+		<marketversion>5.2.0</marketversion>
+		<marketvercode>10</marketvercode>
+		<package>
+			<version>5.2.0</version>
+			<versioncode>10</versioncode>
+			<apkname>simple-keyboard_5.2.0.apk</apkname>
+			<hash type="sha256">ce267f76e05a4b8c8f200672974052af7736c1bfc3e5297692e541ab99bbc1b7</hash>
+			<size>7165767</size>
+			<sdkver>23</sdkver>
+			<targetSdkVersion>31</targetSdkVersion>
+			<added>2022-07-13</added>
+			<sig>3605785333d36e83c077f0d94964a7df</sig>
+			<permissions>READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
+			<uses-permission maxSdkVersion="28" name="android.permission.READ_EXTERNAL_STORAGE"/>
+			<uses-permission maxSdkVersion="28" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+		</package>
+	</application>
+	<application id="com.simplemobiletools.musicplayer">
+		<id>com.simplemobiletools.musicplayer</id>
+		<added>2022-07-13</added>
+		<lastupdated>2022-07-13</lastupdated>
+		<name>Simple Music Player for GrapheneOS</name>
+		<summary>A clean music player with a customizable widget, stylish interface and no ads.</summary>
+		<desc>From the Simple Mobile Tools project, with a white icon fit for GrapheneOS
+</desc>
+		<license>GPL-3.0</license>
+		<categories>System</categories>
+		<category>System</category>
+		<web></web>
+		<source>https://github.com/julianfairfax/Simple-Music-Player</source>
+		<tracker></tracker>
+		<author>julianfairfax</author>
+		<marketversion>5.13.0</marketversion>
+		<marketvercode>101</marketvercode>
+		<package>
+			<version>5.13.0</version>
+			<versioncode>101</versioncode>
+			<apkname>simple-music-player_5.13.0.apk</apkname>
+			<hash type="sha256">41bca2f187e7b1e4385fe8674f66885c65ff6be84a4c1f58f689ccfd47589e30</hash>
+			<size>8779189</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>31</targetSdkVersion>
+			<added>2022-07-13</added>
+			<sig>3605785333d36e83c077f0d94964a7df</sig>
+			<permissions>FOREGROUND_SERVICE,MODIFY_AUDIO_SETTINGS,READ_EXTERNAL_STORAGE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
+		</package>
+	</application>
+	<application id="com.simplemobiletools.notes.pro">
+		<id>com.simplemobiletools.notes.pro</id>
+		<added>2022-07-13</added>
+		<lastupdated>2022-07-13</lastupdated>
+		<name>Simple Notes for GrapheneOS</name>
+		<summary>A simple textfield for adding quick notes without ads.</summary>
+		<desc>From the Simple Mobile Tools project, with a white icon fit for GrapheneOS
+</desc>
+		<license>GPL-3.0</license>
+		<categories>System</categories>
+		<category>System</category>
+		<web></web>
+		<source>https://github.com/julianfairfax/Simple-Notes</source>
+		<tracker></tracker>
+		<author>julianfairfax</author>
+		<marketversion>6.13.0</marketversion>
+		<marketvercode>97</marketvercode>
+		<package>
+			<version>6.13.0</version>
+			<versioncode>97</versioncode>
+			<apkname>simple-notes_6.13.0.apk</apkname>
+			<hash type="sha256">73a67c8d6a22e6f0eb4c2a1d91964ad4b50c8122536ed1388e376945c7d0bef8</hash>
+			<size>7759028</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>31</targetSdkVersion>
+			<added>2022-07-13</added>
+			<sig>3605785333d36e83c077f0d94964a7df</sig>
+			<permissions>READ_EXTERNAL_STORAGE,USE_FINGERPRINT,WRITE_EXTERNAL_STORAGE</permissions>
+			<uses-permission maxSdkVersion="28" name="android.permission.READ_EXTERNAL_STORAGE"/>
+			<uses-permission maxSdkVersion="28" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+		</package>
+	</application>
+	<application id="com.simplemobiletools.smsmessenger">
+		<id>com.simplemobiletools.smsmessenger</id>
+		<added>2022-07-13</added>
+		<lastupdated>2022-07-13</lastupdated>
+		<name>Simple SMS Messenger for GrapheneOS</name>
+		<summary>An easy and quick way of managing SMS and MMS messages without ads.</summary>
+		<desc>From the Simple Mobile Tools project, with a white icon fit for GrapheneOS
+</desc>
+		<license>GPL-3.0</license>
+		<categories>System</categories>
+		<category>System</category>
+		<web></web>
+		<source>https://github.com/julianfairfax/Simple-SMS-Messenger</source>
+		<tracker></tracker>
+		<author>julianfairfax</author>
+		<marketversion>5.15.0</marketversion>
+		<marketvercode>60</marketvercode>
+		<package>
+			<version>5.15.0</version>
+			<versioncode>60</versioncode>
+			<apkname>simple-sms-messenger_5.15.0.apk</apkname>
+			<hash type="sha256">5875508a18dc8c6021d0220c15437efc572710c0bf42d625f04cae4833677b2f</hash>
+			<size>7769044</size>
+			<sdkver>22</sdkver>
+			<targetSdkVersion>31</targetSdkVersion>
+			<added>2022-07-13</added>
+			<sig>3605785333d36e83c077f0d94964a7df</sig>
+			<permissions>READ_APP_BADGE,READ_CONTACTS,READ_EXTERNAL_STORAGE,READ_PHONE_STATE,READ_SMS,RECEIVE_MMS,RECEIVE_SMS,SEND_SMS,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,WRITE_SMS,android.provider.Telephony.SMS_RECEIVED,com.anddoes.launcher.permission.UPDATE_COUNT,com.htc.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.UPDATE_SHORTCUT,com.huawei.android.launcher.permission.CHANGE_BADGE,com.huawei.android.launcher.permission.READ_SETTINGS,com.huawei.android.launcher.permission.WRITE_SETTINGS,com.majeur.launcher.permission.UPDATE_BADGE,com.oppo.launcher.permission.READ_SETTINGS,com.oppo.launcher.permission.WRITE_SETTINGS,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,com.sonyericsson.home.permission.BROADCAST_BADGE,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,me.everything.badger.permission.BADGE_COUNT_READ,me.everything.badger.permission.BADGE_COUNT_WRITE</permissions>
+			<uses-permission maxSdkVersion="28" name="android.permission.READ_EXTERNAL_STORAGE"/>
+			<uses-permission maxSdkVersion="28" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<features>android.hardware.telephony</features>
+		</package>
+	</application>
+	<application id="com.simplemobiletools.thankyou">
+		<id>com.simplemobiletools.thankyou</id>
+		<added>2022-07-13</added>
+		<lastupdated>2022-07-13</lastupdated>
+		<name>Simple Thank You for GrapheneOS</name>
+		<summary>A warm Thank You for supporting our modern &amp; easy Simple Mobile Tools apps!</summary>
+		<desc>From the Simple Mobile Tools project, with a white icon fit for GrapheneOS
+</desc>
+		<license>GPL-3.0</license>
+		<categories>System</categories>
+		<category>System</category>
+		<web></web>
+		<source>https://github.com/julianfairfax/Simple-Thank-You</source>
+		<tracker></tracker>
+		<author>julianfairfax</author>
+		<marketversion>5.5.1</marketversion>
+		<marketvercode>25</marketvercode>
+		<package>
+			<version>5.5.1</version>
+			<versioncode>25</versioncode>
+			<apkname>simple-thank-you_5.5.1.apk</apkname>
+			<hash type="sha256">c182f9b25f57d78cb357ad4c19caace03b329beefc679c21b843beecbc3c9530</hash>
+			<size>6901988</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>31</targetSdkVersion>
+			<added>2022-07-13</added>
+			<sig>3605785333d36e83c077f0d94964a7df</sig>
+		</package>
+	</application>
+	<application id="com.simplemobiletools.voicerecorder">
+		<id>com.simplemobiletools.voicerecorder</id>
+		<added>2022-07-13</added>
+		<lastupdated>2022-07-13</lastupdated>
+		<name>Simple Voice Recorder for GrapheneOS</name>
+		<summary>An easy way of recording any discussion or sounds without ads or internet access</summary>
+		<desc>From the Simple Mobile Tools project, with a white icon fit for GrapheneOS
+</desc>
+		<license>GPL-3.0</license>
+		<categories>System</categories>
+		<category>System</category>
+		<web></web>
+		<source>https://github.com/julianfairfax/Simple-Voice-Recorder</source>
+		<tracker></tracker>
+		<author>julianfairfax</author>
+		<marketversion>5.8.2</marketversion>
+		<marketvercode>25</marketvercode>
+		<package>
+			<version>5.8.2</version>
+			<versioncode>25</versioncode>
+			<apkname>simple-voice-recorder_5.8.2.apk</apkname>
+			<hash type="sha256">95c0c2174b755b7f8fb5b4dc38650a467f437e4d9ff2184e27c117429b8c07ff</hash>
+			<size>7516231</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>31</targetSdkVersion>
+			<added>2022-07-13</added>
+			<sig>3605785333d36e83c077f0d94964a7df</sig>
+			<permissions>FOREGROUND_SERVICE,READ_EXTERNAL_STORAGE,RECORD_AUDIO,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
+			<uses-permission maxSdkVersion="29" name="android.permission.READ_EXTERNAL_STORAGE"/>
+			<uses-permission maxSdkVersion="29" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+	</application>
+</fdroid>

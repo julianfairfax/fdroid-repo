@@ -1,0 +1,13 @@
+AuthorName: julianfairfax
+Categories:
+    - System
+CurrentVersion: 6.18.3
+CurrentVersionCode: 220
+Description: |
+    From the Simple Mobile Tools project, with a white icon fit for GrapheneOS
+IssueTracker: ""
+License: GPL-3.0
+Name: Simple Calendar for GrapheneOS
+SourceCode: https://github.com/julianfairfax/Simple-Calendar
+Summary: A simple calendar with events, tasks, customizable colors, widgets and no ads.
+WebSite: ""

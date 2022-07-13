@@ -1,0 +1,13 @@
+AuthorName: julianfairfax
+Categories:
+    - System
+CurrentVersion: 5.8.1
+CurrentVersionCode: 29
+Description: |
+    From the Simple Mobile Tools project, with a white icon fit for GrapheneOS
+IssueTracker: ""
+License: GPL-3.0
+Name: Simple Clock for GrapheneOS
+SourceCode: https://github.com/julianfairfax/Simple-Clock
+Summary: Combination of a beautiful clock with widget, alarm, stopwatch & timer, no ads
+WebSite: ""

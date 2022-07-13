@@ -1,0 +1,13 @@
+AuthorName: julianfairfax
+Categories:
+    - System
+CurrentVersion: 5.2.0
+CurrentVersionCode: 10
+Description: |
+    From the Simple Mobile Tools project, with a white icon fit for GrapheneOS
+IssueTracker: ""
+License: GPL-3.0
+Name: Simple Keyboard for GrapheneOS
+SourceCode: https://github.com/julianfairfax/Simple-Keyboard
+Summary: Easy keyboard for inserting all kinds of texts, special characters and numbers.
+WebSite: ""

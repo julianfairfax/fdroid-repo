@@ -1,0 +1,13 @@
+AuthorName: julianfairfax
+Categories:
+    - System
+CurrentVersion: 5.5.1
+CurrentVersionCode: 25
+Description: |
+    From the Simple Mobile Tools project, with a white icon fit for GrapheneOS
+IssueTracker: ""
+License: GPL-3.0
+Name: Simple Thank You for GrapheneOS
+SourceCode: https://github.com/julianfairfax/Simple-Thank-You
+Summary: A warm Thank You for supporting our modern & easy Simple Mobile Tools apps!
+WebSite: ""

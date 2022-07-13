@@ -1,0 +1,13 @@
+AuthorName: julianfairfax
+Categories:
+    - System
+CurrentVersion: 5.9.0
+CurrentVersionCode: 52
+Description: |
+    From the Simple Mobile Tools project, with a white icon fit for GrapheneOS
+IssueTracker: ""
+License: GPL-3.0
+Name: Simple Calculator for GrapheneOS
+SourceCode: https://github.com/julianfairfax/Simple-Calculator
+Summary: A calculator for quick simple calculations with a nice user interface and no ads
+WebSite: ""
