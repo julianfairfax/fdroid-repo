@@ -1,0 +1,135 @@
+simple-app-launcher:
+  git: https://github.com/julianfairfax/Simple-App-Launcher
+  name: "Simple App Launcher for GrapheneOS"
+  description: |
+    From the Simple Mobile Tools project, with a white icon fit for GrapheneOS
+  categories: 
+    - System
+
+simple-calculator:
+  git: https://github.com/julianfairfax/Simple-Calculator
+  name: "Simple Calculator for GrapheneOS"
+  description: |
+    From the Simple Mobile Tools project, with a white icon fit for GrapheneOS
+  categories: 
+    - System
+
+simple-calendar:
+  git: https://github.com/julianfairfax/Simple-Calendar
+  name: "Simple Calendar for GrapheneOS"
+  description: |
+    From the Simple Mobile Tools project, with a white icon fit for GrapheneOS
+  categories: 
+    - System
+
+simple-camera:
+  git: https://github.com/julianfairfax/Simple-Camera
+  name: "Simple Camera for GrapheneOS"
+  description: |
+    From the Simple Mobile Tools project, with a white icon fit for GrapheneOS
+  categories: 
+    - System
+
+simple-clock:
+  git: https://github.com/julianfairfax/Simple-Clock
+  name: "Simple Clock for GrapheneOS"
+  description: |
+    From the Simple Mobile Tools project, with a white icon fit for GrapheneOS
+  categories: 
+    - System
+
+simple-contacts:
+  git: https://github.com/julianfairfax/Simple-Contacts
+  name: "Simple Contacts for GrapheneOS"
+  description: |
+    From the Simple Mobile Tools project, with a white icon fit for GrapheneOS
+  categories: 
+    - System
+
+simple-dialer:
+  git: https://github.com/julianfairfax/Simple-Dialer
+  name: "Simple Dialer for GrapheneOS"
+  description: |
+    From the Simple Mobile Tools project, with a white icon fit for GrapheneOS
+  categories: 
+    - System
+
+simple-draw:
+  git: https://github.com/julianfairfax/Simple-Draw
+  name: "Simple Draw for GrapheneOS"
+  description: |
+    From the Simple Mobile Tools project, with a white icon fit for GrapheneOS
+  categories: 
+    - System
+
+simple-file-manager:
+  git: https://github.com/julianfairfax/Simple-File-Manager
+  name: "Simple File Manager for GrapheneOS"
+  description: |
+    From the Simple Mobile Tools project, with a white icon fit for GrapheneOS
+  categories: 
+    - System
+
+simple-flashlight:
+  git: https://github.com/julianfairfax/Simple-Flashlight
+  name: "Simple Flashlight for GrapheneOS"
+  description: |
+    From the Simple Mobile Tools project, with a white icon fit for GrapheneOS
+  categories: 
+    - System
+
+simple-gallery:
+  git: https://github.com/julianfairfax/Simple-Gallery
+  name: "Simple Gallery for GrapheneOS"
+  description: |
+    From the Simple Mobile Tools project, with a white icon fit for GrapheneOS
+  categories: 
+    - System
+
+simple-keyboard:
+  git: https://github.com/julianfairfax/Simple-Keyboard
+  name: "Simple Keyboard for GrapheneOS"
+  description: |
+    From the Simple Mobile Tools project, with a white icon fit for GrapheneOS
+  categories: 
+    - System
+
+simple-music-player:
+  git: https://github.com/julianfairfax/Simple-Music-Player
+  name: "Simple Music Player for GrapheneOS"
+  description: |
+    From the Simple Mobile Tools project, with a white icon fit for GrapheneOS
+  categories: 
+    - System
+
+simple-notes:
+  git: https://github.com/julianfairfax/Simple-Notes
+  name: "Simple Notes for GrapheneOS"
+  description: |
+    From the Simple Mobile Tools project, with a white icon fit for GrapheneOS
+  categories: 
+    - System
+
+simple-sms-messenger:
+  git: https://github.com/julianfairfax/Simple-SMS-Messenger
+  name: "Simple SMS Messenger for GrapheneOS"
+  description: |
+    From the Simple Mobile Tools project, with a white icon fit for GrapheneOS
+  categories: 
+    - System
+
+simple-thank-you:
+  git: https://github.com/julianfairfax/Simple-Thank-You
+  name: "Simple Thank You for GrapheneOS"
+  description: |
+    From the Simple Mobile Tools project, with a white icon fit for GrapheneOS
+  categories: 
+    - System
+
+simple-voice-recorder:
+  git: https://github.com/julianfairfax/Simple-Voice-Recorder
+  name: "Simple Voice Recorder for GrapheneOS"
+  description: |
+    From the Simple Mobile Tools project, with a white icon fit for GrapheneOS
+  categories: 
+    - System
