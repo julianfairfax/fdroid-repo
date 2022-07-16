@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1657751734000,
+    "timestamp": 1657936900000,
     "version": 20001,
     "name": "Julian Fairfax's F-Droid Repo",
     "icon": "icon.png",
@@ -24,9 +24,9 @@
       "name": "Simple App Launcher for GrapheneOS",
       "sourceCode": "https://github.com/julianfairfax/Simple-App-Launcher",
       "summary": "A simple holder for favourite apps for quick & easy app launcher icon management",
-      "added": 1657751340000,
+      "added": 1657936598000,
       "packageName": "com.simplemobiletools.applauncher",
-      "lastUpdated": 1657751340000,
+      "lastUpdated": 1657936598000,
       "localized": {
         "en-US": {
           "phoneScreenshots": [
@@ -58,9 +58,9 @@
       "name": "Simple Calculator for GrapheneOS",
       "sourceCode": "https://github.com/julianfairfax/Simple-Calculator",
       "summary": "A calculator for quick simple calculations with a nice user interface and no ads",
-      "added": 1657751342000,
+      "added": 1657936600000,
       "packageName": "com.simplemobiletools.calculator",
-      "lastUpdated": 1657751342000,
+      "lastUpdated": 1657936600000,
       "localized": {
         "en-US": {
           "phoneScreenshots": [
@@ -157,9 +157,9 @@
       "name": "Simple Calendar for GrapheneOS",
       "sourceCode": "https://github.com/julianfairfax/Simple-Calendar",
       "summary": "A simple calendar with events, tasks, customizable colors, widgets and no ads.",
-      "added": 1657751345000,
+      "added": 1657936602000,
       "packageName": "com.simplemobiletools.calendar.pro",
-      "lastUpdated": 1657751345000,
+      "lastUpdated": 1657936602000,
       "localized": {
         "en-US": {
           "phoneScreenshots": [
@@ -199,9 +199,9 @@
       "name": "Simple Camera for GrapheneOS",
       "sourceCode": "https://github.com/julianfairfax/Simple-Camera",
       "summary": "(Abandoned) Quick photo and video camera with a flash, customizable resolutio...",
-      "added": 1657751347000,
+      "added": 1657936604000,
       "packageName": "com.simplemobiletools.camera",
-      "lastUpdated": 1657751347000,
+      "lastUpdated": 1657936604000,
       "localized": {
         "en-US": {
           "phoneScreenshots": [
@@ -231,9 +231,9 @@
       "name": "Simple Clock for GrapheneOS",
       "sourceCode": "https://github.com/julianfairfax/Simple-Clock",
       "summary": "Combination of a beautiful clock with widget, alarm, stopwatch & timer, no ads",
-      "added": 1657751349000,
+      "added": 1657936605000,
       "packageName": "com.simplemobiletools.clock",
-      "lastUpdated": 1657751349000,
+      "lastUpdated": 1657936605000,
       "localized": {
         "en-US": {
           "phoneScreenshots": [
@@ -341,9 +341,9 @@
       "name": "Simple Contacts for GrapheneOS",
       "sourceCode": "https://github.com/julianfairfax/Simple-Contacts",
       "summary": "Easy and quick contact management with no ads, handles groups and favorites too.",
-      "added": 1657751351000,
+      "added": 1657936607000,
       "packageName": "com.simplemobiletools.contacts.pro",
-      "lastUpdated": 1657751351000,
+      "lastUpdated": 1657936607000,
       "localized": {
         "en-US": {
           "phoneScreenshots": [
@@ -382,9 +382,9 @@
       "name": "Simple Dialer for GrapheneOS",
       "sourceCode": "https://github.com/julianfairfax/Simple-Dialer",
       "summary": "A handy phone call manager with phonebook, number blocking and multi-SIM support",
-      "added": 1657751353000,
+      "added": 1657936609000,
       "packageName": "com.simplemobiletools.dialer",
-      "lastUpdated": 1657751353000,
+      "lastUpdated": 1657936609000,
       "localized": {
         "en-US": {
           "phoneScreenshots": [
@@ -416,9 +416,9 @@
       "name": "Simple Draw for GrapheneOS",
       "sourceCode": "https://github.com/julianfairfax/Simple-Draw",
       "summary": "A canvas you can draw on with different colors.",
-      "added": 1657751356000,
+      "added": 1657936611000,
       "packageName": "com.simplemobiletools.draw.pro",
-      "lastUpdated": 1657751356000,
+      "lastUpdated": 1657936611000,
       "localized": {
         "en-US": {
           "phoneScreenshots": [
@@ -456,9 +456,9 @@
       "name": "Simple File Manager for GrapheneOS",
       "sourceCode": "https://github.com/julianfairfax/Simple-File-Manager",
       "summary": "Easy app for managing your files without ads, respecting your privacy & security",
-      "added": 1657751358000,
+      "added": 1657936613000,
       "packageName": "com.simplemobiletools.filemanager.pro",
-      "lastUpdated": 1657751358000,
+      "lastUpdated": 1657936613000,
       "localized": {
         "en-US": {
           "phoneScreenshots": [
@@ -498,9 +498,9 @@
       "name": "Simple Flashlight for GrapheneOS",
       "sourceCode": "https://github.com/julianfairfax/Simple-Flashlight",
       "summary": "A simple modern flashlight with SOS, stroboscope & bright display, has no ads.",
-      "added": 1657751361000,
+      "added": 1657936615000,
       "packageName": "com.simplemobiletools.flashlight",
-      "lastUpdated": 1657751361000,
+      "lastUpdated": 1657936615000,
       "localized": {
         "en-US": {
           "phoneScreenshots": [
@@ -536,9 +536,9 @@
       "name": "Simple Gallery for GrapheneOS",
       "sourceCode": "https://github.com/julianfairfax/Simple-Gallery",
       "summary": "A premium app for managing and editing your photos, videos, GIFs without ads",
-      "added": 1657751364000,
+      "added": 1657936617000,
       "packageName": "com.simplemobiletools.gallery.pro",
-      "lastUpdated": 1657751364000,
+      "lastUpdated": 1657936617000,
       "localized": {
         "en-US": {
           "phoneScreenshots": [
@@ -575,9 +575,9 @@
       "name": "Simple Keyboard for GrapheneOS",
       "sourceCode": "https://github.com/julianfairfax/Simple-Keyboard",
       "summary": "Easy keyboard for inserting all kinds of texts, special characters and numbers.",
-      "added": 1657751366000,
+      "added": 1657936619000,
       "packageName": "com.simplemobiletools.keyboard",
-      "lastUpdated": 1657751366000,
+      "lastUpdated": 1657936619000,
       "localized": {
         "en-US": {
           "phoneScreenshots": [
@@ -614,16 +614,16 @@
       "categories": [
         "System"
       ],
-      "suggestedVersionName": "5.13.0",
-      "suggestedVersionCode": "101",
+      "suggestedVersionName": "5.13.1",
+      "suggestedVersionCode": "102",
       "description": "From the Simple Mobile Tools project, with a white icon fit for GrapheneOS\n",
       "license": "GPL-3.0",
       "name": "Simple Music Player for GrapheneOS",
       "sourceCode": "https://github.com/julianfairfax/Simple-Music-Player",
       "summary": "A clean music player with a customizable widget, stylish interface and no ads.",
-      "added": 1657751368000,
+      "added": 1657936621000,
       "packageName": "com.simplemobiletools.musicplayer",
-      "lastUpdated": 1657751368000,
+      "lastUpdated": 1657936623000,
       "localized": {
         "en-US": {
           "phoneScreenshots": [
@@ -660,9 +660,9 @@
       "name": "Simple Notes for GrapheneOS",
       "sourceCode": "https://github.com/julianfairfax/Simple-Notes",
       "summary": "A simple textfield for adding quick notes without ads.",
-      "added": 1657751371000,
+      "added": 1657936625000,
       "packageName": "com.simplemobiletools.notes.pro",
-      "lastUpdated": 1657751371000,
+      "lastUpdated": 1657936625000,
       "localized": {
         "en-US": {
           "phoneScreenshots": [
@@ -698,9 +698,9 @@
       "name": "Simple SMS Messenger for GrapheneOS",
       "sourceCode": "https://github.com/julianfairfax/Simple-SMS-Messenger",
       "summary": "An easy and quick way of managing SMS and MMS messages without ads.",
-      "added": 1657751373000,
+      "added": 1657936626000,
       "packageName": "com.simplemobiletools.smsmessenger",
-      "lastUpdated": 1657751373000,
+      "lastUpdated": 1657936626000,
       "localized": {
         "en-US": {
           "phoneScreenshots": [
@@ -731,9 +731,9 @@
       "name": "Simple Thank You for GrapheneOS",
       "sourceCode": "https://github.com/julianfairfax/Simple-Thank-You",
       "summary": "A warm Thank You for supporting our modern & easy Simple Mobile Tools apps!",
-      "added": 1657751375000,
+      "added": 1657936628000,
       "packageName": "com.simplemobiletools.thankyou",
-      "lastUpdated": 1657751375000,
+      "lastUpdated": 1657936628000,
       "localized": {
         "en-US": {
           "phoneScreenshots": [
@@ -763,9 +763,9 @@
       "name": "Simple Voice Recorder for GrapheneOS",
       "sourceCode": "https://github.com/julianfairfax/Simple-Voice-Recorder",
       "summary": "An easy way of recording any discussion or sounds without ads or internet access",
-      "added": 1657751378000,
+      "added": 1657936630000,
       "packageName": "com.simplemobiletools.voicerecorder",
-      "lastUpdated": 1657751378000,
+      "lastUpdated": 1657936630000,
       "localized": {
         "en-US": {
           "phoneScreenshots": [
@@ -786,7 +786,7 @@
   "packages": {
     "com.simplemobiletools.applauncher": [
       {
-        "added": 1657751340000,
+        "added": 1657936598000,
         "apkName": "simple-app-launcher_5.9.2.apk",
         "hash": "e6d81dbd85ee099814a98601546bf04330e6399fe30b3d3c48b89d4545d96d46",
         "hashType": "sha256",
@@ -808,7 +808,7 @@
     ],
     "com.simplemobiletools.calculator": [
       {
-        "added": 1657751342000,
+        "added": 1657936600000,
         "apkName": "simple-calculator_5.9.0.apk",
         "hash": "de004fdd5c59a07317ce4290b2decd0051c4e328a774f870ce91971c9c24e3ec",
         "hashType": "sha256",
@@ -824,7 +824,7 @@
     ],
     "com.simplemobiletools.calendar.pro": [
       {
-        "added": 1657751345000,
+        "added": 1657936602000,
         "apkName": "simple-calendar_6.18.3.apk",
         "hash": "2ceb542bf91829ad08bff474cefacf89b7a87a0298a843788fe37c5ab8c62c69",
         "hashType": "sha256",
@@ -878,7 +878,7 @@
     ],
     "com.simplemobiletools.camera": [
       {
-        "added": 1657751347000,
+        "added": 1657936604000,
         "apkName": "simple-camera_5.3.1.apk",
         "features": [
           "android.hardware.camera"
@@ -925,7 +925,7 @@
     ],
     "com.simplemobiletools.clock": [
       {
-        "added": 1657751349000,
+        "added": 1657936605000,
         "apkName": "simple-clock_5.8.1.apk",
         "hash": "dbd46a9883ec7bd42b24cd8994e305ca3788abf1751253ec827588fcffe4647f",
         "hashType": "sha256",
@@ -975,7 +975,7 @@
     ],
     "com.simplemobiletools.contacts.pro": [
       {
-        "added": 1657751351000,
+        "added": 1657936607000,
         "apkName": "simple-contacts_6.19.1.apk",
         "hash": "9d5a63665752ff48a72bf3e11db3c43ac7759183a803b66a911c00722a0d6277",
         "hashType": "sha256",
@@ -1021,7 +1021,7 @@
     ],
     "com.simplemobiletools.dialer": [
       {
-        "added": 1657751353000,
+        "added": 1657936609000,
         "apkName": "simple-dialer_5.13.3.apk",
         "hash": "f95f1f41e591b1fdba6c3365bc64d1d3528f5f8e3b62da96b5f21793e481a572",
         "hashType": "sha256",
@@ -1103,7 +1103,7 @@
     ],
     "com.simplemobiletools.draw.pro": [
       {
-        "added": 1657751356000,
+        "added": 1657936611000,
         "apkName": "simple-draw_6.7.0.apk",
         "hash": "7e262038faae913169b3725a520826a84e45364343d768aefc9f6a019741dcd5",
         "hashType": "sha256",
@@ -1129,7 +1129,7 @@
     ],
     "com.simplemobiletools.filemanager.pro": [
       {
-        "added": 1657751358000,
+        "added": 1657936613000,
         "apkName": "simple-file-manager_6.12.6.apk",
         "hash": "b1c07e9e6704cdb181c0088dc24f56c3aacff08a5a9cdc5c61d806c7ba820937",
         "hashType": "sha256",
@@ -1173,7 +1173,7 @@
     ],
     "com.simplemobiletools.flashlight": [
       {
-        "added": 1657751361000,
+        "added": 1657936615000,
         "apkName": "simple-flashlight_5.6.3.apk",
         "features": [
           "android.hardware.camera.flash"
@@ -1202,7 +1202,7 @@
     ],
     "com.simplemobiletools.gallery.pro": [
       {
-        "added": 1657751364000,
+        "added": 1657936617000,
         "apkName": "simple-gallery_6.23.13.apk",
         "hash": "0eb022902902fcc98ef005589852692f094c320632d8f8ce54cbcb2c3d9c5b42",
         "hashType": "sha256",
@@ -1261,7 +1261,7 @@
     ],
     "com.simplemobiletools.keyboard": [
       {
-        "added": 1657751366000,
+        "added": 1657936619000,
         "apkName": "simple-keyboard_5.2.0.apk",
         "hash": "ce267f76e05a4b8c8f200672974052af7736c1bfc3e5297692e541ab99bbc1b7",
         "hashType": "sha256",
@@ -1287,7 +1287,43 @@
     ],
     "com.simplemobiletools.musicplayer": [
       {
-        "added": 1657751368000,
+        "added": 1657936623000,
+        "apkName": "simple-music-player_5.13.1.apk",
+        "hash": "7e452ae96951f816d22cbcb49d6df63d501dacb315514d27c6296cc4b511f250",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "packageName": "com.simplemobiletools.musicplayer",
+        "sig": "3605785333d36e83c077f0d94964a7df",
+        "signer": "52ce848204f943c1030387e037a3d959e1e94fca51c0f9b12b4d17e5f0b2b39d",
+        "size": 8789070,
+        "targetSdkVersion": 31,
+        "uses-permission": [
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 102,
+        "versionName": "5.13.1"
+      },
+      {
+        "added": 1657936621000,
         "apkName": "simple-music-player_5.13.0.apk",
         "hash": "41bca2f187e7b1e4385fe8674f66885c65ff6be84a4c1f58f689ccfd47589e30",
         "hashType": "sha256",
@@ -1325,7 +1361,7 @@
     ],
     "com.simplemobiletools.notes.pro": [
       {
-        "added": 1657751371000,
+        "added": 1657936625000,
         "apkName": "simple-notes_6.13.0.apk",
         "hash": "73a67c8d6a22e6f0eb4c2a1d91964ad4b50c8122536ed1388e376945c7d0bef8",
         "hashType": "sha256",
@@ -1355,7 +1391,7 @@
     ],
     "com.simplemobiletools.smsmessenger": [
       {
-        "added": 1657751373000,
+        "added": 1657936626000,
         "apkName": "simple-sms-messenger_5.15.0.apk",
         "features": [
           "android.hardware.telephony"
@@ -1484,7 +1520,7 @@
     ],
     "com.simplemobiletools.thankyou": [
       {
-        "added": 1657751375000,
+        "added": 1657936628000,
         "apkName": "simple-thank-you_5.5.1.apk",
         "hash": "c182f9b25f57d78cb357ad4c19caace03b329beefc679c21b843beecbc3c9530",
         "hashType": "sha256",
@@ -1500,7 +1536,7 @@
     ],
     "com.simplemobiletools.voicerecorder": [
       {
-        "added": 1657751378000,
+        "added": 1657936630000,
         "apkName": "simple-voice-recorder_5.8.2.apk",
         "hash": "95c0c2174b755b7f8fb5b4dc38650a467f437e4d9ff2184e27c117429b8c07ff",
         "hashType": "sha256",

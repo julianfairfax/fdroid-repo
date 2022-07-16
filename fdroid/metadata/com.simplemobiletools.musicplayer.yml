@@ -1,8 +1,8 @@
 AuthorName: julianfairfax
 Categories:
     - System
-CurrentVersion: 5.13.0
-CurrentVersionCode: 101
+CurrentVersion: 5.13.1
+CurrentVersionCode: 102
 Description: |
     From the Simple Mobile Tools project, with a white icon fit for GrapheneOS
 IssueTracker: ""
